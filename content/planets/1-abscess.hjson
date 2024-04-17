@@ -1,11 +1,11 @@
-localizedName: Abcess
+localizedName: Abscess
 description: W.I.P planet for my mod
 alwaysUnlocked: true
 mesh: [
  {
     //water
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     divisions: 4
     seed: 6
     radius: 1.255
@@ -16,7 +16,7 @@ mesh: [
   }
   {
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     divisions: 5
     radius: 1.66
     seed: 93
@@ -28,7 +28,7 @@ mesh: [
   {
     //sand
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     divisions: 6
     seed: 101
     radius: 1.2441
@@ -40,7 +40,7 @@ mesh: [
   {
     //demetite
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     seed: 62
     divisions: 4
     color1: d5c995
@@ -54,7 +54,7 @@ mesh: [
   {
     //barite
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     divisions: 5
     seed: 18
     radius: 1.247
@@ -66,7 +66,7 @@ mesh: [
   {
     //radian barite
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     divisions: 6
     seed: 61
     radius: 1.248
@@ -78,7 +78,7 @@ mesh: [
   {
     //red sand
     type: NoiseMesh
-    planet: 1-abcess
+    planet: 1-abscess
     divisions: 6
     seed: 17
     radius: 1.2514
@@ -91,7 +91,7 @@ mesh: [
 cloudMesh: [
  {
    type: HexSkyMesh
-   planet: 1-abcess
+   planet: 1-abscess
    speed: 1.26
    radius: 0.2
    divisions: 6
@@ -103,7 +103,7 @@ cloudMesh: [
   }
   {
    type: HexSkyMesh
-   planet: 1-abcess
+   planet: 1-abscess
    speed: 1.01
    radius: 0.11
    divisions: 6
@@ -115,7 +115,7 @@ cloudMesh: [
   }
   {
    type: HexSkyMesh
-   planet: 1-abcess
+   planet: 1-abscess
    speed: 0.891
    radius: 0.091
    divisions: 6
