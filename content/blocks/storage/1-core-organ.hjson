@@ -2,7 +2,7 @@ type: CoreBlock
 name: Core: Organ
 description: Core of the base. Armored and stores a medium amount of items.
 requirements: [
-   copper/1
+   hassium/1000
 ]
 isFirstTier: true
 size: 3
