@@ -1,0 +1,8 @@
+localizedName: Landing
+  description: "You wake up in a strange planet covered in stone, it's cold..."
+  captureWave: 12
+  planet: 1-abscess
+  sector:0
+  research: 1-core-organ
+  difficulty: 0.5
+  alwaysUnlocked:true
