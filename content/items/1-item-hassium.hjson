@@ -1,0 +1,5 @@
+name:"Hassium"
+  description: "It's kind of soft. Used as ammo and basic building."
+hardness: 1.3
+  cost:1
+  alwaysUnlocked:true
